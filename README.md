@@ -17,7 +17,25 @@ Aplikasi berbasis Web yang memungkinkan mahasiswa membuat email secara otomatis 
 
 ## Hasil Generate Email
 
-![image](https://github.com/user-attachments/assets/4cc9b341-e6ce-4862-862a-1c4c548d5eb3)
+![image](https://github.com/user-attachments/assets/4cc9b341-e6ce-4862-862a-1c4c548d5eb3)4
+
+**Subjek: Permohonan Izin Tidak Dapat Menghadiri Perkuliahan**
+
+**Yth. Bapak/Ibu [Gelar Dosen] [Nama Dosen],**
+
+Dengan hormat,
+
+Melalui email ini, saya, Widya, mahasiswa [Program Studi] [Angkatan] dengan ini bermaksud memohon izin untuk tidak dapat menghadiri perkuliahan [Nama Mata Kuliah] selama 3 (tiga) hari, terhitung mulai tanggal [Tanggal Mulai] hingga [Tanggal Selesai], dikarenakan [Alasan singkat dan jelas, contoh: sakit/keperluan keluarga/dll. Jika alasan sensitif, bisa disebutkan "ada keperluan mendesak"].
+
+Saya menyadari pentingnya kehadiran dalam perkuliahan dan saya akan berusaha semaksimal mungkin untuk mengejar materi yang tertinggal, baik secara mandiri maupun dengan berdiskusi dengan teman sekelas. Apabila diperlukan, saya siap untuk memberikan surat keterangan atau bukti pendukung lainnya.
+
+Atas perhatian dan izin yang Bapak/Ibu berikan, saya mengucapkan terima kasih.
+
+Hormat saya,
+
+Widya
+[NIM]
+[Nomor Telepon (opsional)]
 
 
 ## 📁 Struktur Proyek
