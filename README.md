@@ -17,7 +17,7 @@ Aplikasi berbasis Web yang memungkinkan mahasiswa membuat email secara otomatis 
 
 ## Hasil Generate Email
 
-![image](https://github.com/user-attachments/assets/4cc9b341-e6ce-4862-862a-1c4c548d5eb3)4
+![image](https://github.com/user-attachments/assets/4cc9b341-e6ce-4862-862a-1c4c548d5eb3)
 
 **Subjek: Permohonan Izin Tidak Dapat Menghadiri Perkuliahan**
 
